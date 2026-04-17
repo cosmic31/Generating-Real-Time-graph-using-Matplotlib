@@ -1,1 +1,2 @@
 # Generating-Real-Time-graph-using-Matplotlib
+This project implements a **Hybrid TinyML system** using NodeMCU and ultrasonic sensors to demonstrate the **Operations and Monitoring** pillar of ML Systems via real-time Matplotlib visualization. It establishes a robust **data engineering pipeline** that offloads complex visualization to a host PC while performing low-latency sensing on the edge. This architecture provides a foundation for future **predictive maintenance** and anomaly detection applications through continuous sensor-stream monitoring.
